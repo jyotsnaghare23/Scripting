@@ -3,4 +3,5 @@ echo "We are from batch-33 and learning git/gihub"
 echo "We are learning Branching"
 echo "Git fork and git clone"
 echo "jyotsna try to preactical github"
-echo "try to practical github"
+echo "try to practical githubo
+echo "today i am available"
